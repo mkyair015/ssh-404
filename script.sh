@@ -17,12 +17,12 @@ none='\e[0m'
 
 sed -i 's/#\?AllowTcpForwarding .*/AllowTcpForwarding yes/' /etc/ssh/sshd_config && sed -i 's/#\?PasswordAuthentication .*/PasswordAuthentication yes/' /etc/ssh/sshd_config && sed -i 's/#\?Banner .*/Banner \/etc\/ssh\/gcp_404/' /etc/ssh/sshd_config && /etc/init.d/ssh restart;
 echo "
-<h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
+<h3><font color='red'>lee
 </font></h3>
-<h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
+<h3><font color='magenta'>--- ۩Lee ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
+<h3><font color='green'>--- ۩  lee3-
 </font></h3>
 
 <h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
